@@ -16,6 +16,9 @@ streamlit run app.py
 
 Collaborators: 
 > Angel Dahal    [Github account](https://github.com/Angeldahal)
+
 > Kajal Singh    [Facebook account](https://www.facebook.com/profile.php?id=100043926881220)
+
 > Kushal Acharya [Github account](https://github.com/ShadowChaser4)
+
 > Maheshwor Prasad Bhatt [Facebook account](https://www.facebook.com/maheshwarprashad.bhattmayalu)
